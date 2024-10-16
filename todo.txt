@@ -1,1 +1,0 @@
-# when creating color palettes, be able to copy and paste a bunch of hex codes
